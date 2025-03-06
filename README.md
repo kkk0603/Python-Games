@@ -1,5 +1,3 @@
-Certainly! Here's a basic overview for your README file, summarizing the Python games you've developed and pushed to your GitHub repository:
-
 # Python Games Collection
 
 Welcome to my Python Games Collection! This repository showcases a variety of simple yet engaging games developed using Python. Each game offers a unique experience and serves as a testament to the versatility of Python in game development.
