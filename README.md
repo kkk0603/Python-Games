@@ -1,6 +1,6 @@
 # Python Games Collection
 
-Welcome to my Python Games Collection! This repository showcases a variety of simple yet engaging games developed using Python. Each game offers a unique experience and serves as a testament to the versatility of Python in game development.
+Welcome to my Python Games Collection! This repository showcases a variety of simple yet engaging games developed using Python. Each game offers a unique experience.
 
 ## Games Included
 
