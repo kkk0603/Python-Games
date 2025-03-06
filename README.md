@@ -47,10 +47,6 @@ To play any of these games:
 
 I welcome contributions to enhance these games or add new ones. Feel free to fork this repository, make your changes, and submit a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Enjoy playing these games, and happy coding! 
